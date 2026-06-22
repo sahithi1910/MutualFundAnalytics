@@ -1,0 +1,55 @@
+MUTUAL FUND ANALYTICS PLATFORM 
+DATA QUALITY REPORT 
+
+SUMMARY OF ALL DATASETS 
+
+1. Fund Master 
+Records : 40
+Missing Values : 0
+Duplicate Rows : 0
+
+2. NAV History
+Records : 46000
+Missing Values : 0
+Duplicate Rows : 0
+
+3. AUM By Fund House
+Records : 90
+Missing Values : 0
+Duplicate Rows : 0
+
+4. Monthly SIP Inflows
+Records : 48
+Missing Values : 12
+Duplicate Rows : 0
+
+5. Category Inflows
+Records : 144
+Missing Values : 0
+Duplicate Rows : 0
+
+6. Industry Folio Count
+Records : 21
+Missing Values : 0
+Duplicate Rows : 0
+
+7. Scheme Performance
+Records : 40
+Missing Values : 0
+Duplicate Rows : 0
+
+8. Investor Transactions
+Records : 32,778
+Missing Values : 0
+Duplicate Rows : 0
+
+9. Portfolio Holdings
+Records : 322
+Missing Values : 0
+Duplicate Rows : 0
+
+10. Benchmark Indices
+Records : 8050
+Missing Values : 0
+Duplicate Rows : 0
+
